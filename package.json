@@ -1,7 +1,7 @@
 {
     "name": "twitter-node-client",
     "description": "Twitter JS Client",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "directories": {
         "lib": "./lib"
     },
